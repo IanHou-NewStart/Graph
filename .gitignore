@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Graph/bin/Debug/netcoreapp5.0
+/Graph/obj
+/NoWeightGraphTests/bin/Debug/netcoreapp5.0
+/NoWeightGraphTests/obj
